@@ -1,14 +1,25 @@
 {
-  "name": "test",
+  "name": "@fernandobarrosd/expo-template",
+  "description": "Expo template with Eslint configured",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandobarrosd/expo-template.git"
+  },
+  "keywords": ["expo", "template"],
+  "homepage": "https://github.com/fernandobarrosd/expo-template",
+  "author": {
+    "name": "Fernando de Barros",
+    "email": "fdebarros0910-2004@hotmail.com",
+    "url": "https://github.com/fernandobarrosd"
+  },
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "android": "expo start --android"
   },
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
     "expo": "~50.0.3",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
@@ -17,7 +28,10 @@
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "@typescript-eslint/parser": "^6.19.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2",
     "typescript": "^5.1.3"
-  },
-  "private": true
+  }
 }
