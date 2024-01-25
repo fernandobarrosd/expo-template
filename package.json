@@ -6,7 +6,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/fernandobarrosd/expo-template.git"
@@ -20,9 +19,7 @@
   },
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "android": "expo start --android"
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
