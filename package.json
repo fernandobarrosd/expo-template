@@ -1,7 +1,7 @@
 {
   "name": "@fernandobarrosd/expo-template",
   "description": "Expo template with Eslint configured",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "private": "false",
   "license": "MIT",
