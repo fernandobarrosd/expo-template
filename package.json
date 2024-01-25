@@ -1,5 +1,5 @@
 {
-  "name": "@fernandobarrosd/expo-template",
+  "name": "@fernandobarrosd/expo-eslint-template",
   "description": "Expo template with Eslint configured",
   "version": "0.0.1",
   "main": "node_modules/expo/AppEntry.js",
