@@ -9,11 +9,7 @@
   },
   "keywords": ["expo", "template"],
   "homepage": "https://github.com/fernandobarrosd/expo-template",
-  "author": {
-    "name": "Fernando de Barros",
-    "email": "fdebarros0910-2004@hotmail.com",
-    "url": "https://github.com/fernandobarrosd"
-  },
+  "author": "Fernando de Barros <fdebarros0910-2004@hotmail.com>",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android"
