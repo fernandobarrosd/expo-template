@@ -3,12 +3,13 @@
   "description": "Expo template with Eslint configured",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "private": "false",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/fernandobarrosd/expo-template.git"
   },
-  "keywords": ["expo", "template"],
+  "keywords": ["expo", "template", "react-native"],
   "homepage": "https://github.com/fernandobarrosd/expo-template",
   "author": "Fernando de Barros <fdebarros0910-2004@hotmail.com>",
   "scripts": {
